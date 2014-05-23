@@ -1,0 +1,17 @@
+{
+    "name": "ratio/wallboard",
+    "description": "Classes to post data to Loudspeaker and Chirp wallboards",
+    "authors": [
+        {
+            "name": "Josh Buckley",
+            "email": "josh.buckley@rationetwork.co.uk"
+        }
+    ],
+    "licence": "proprietary",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "Ratio\\": "src/" }
+    }
+}
